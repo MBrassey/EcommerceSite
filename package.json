@@ -1,5 +1,5 @@
 {
-  "name": "ECommerceBackend",
+  "name": "EcommerceSite",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:MBrassey/ECommerceBackend.git"
+    "url": "git@github.com:MBrassey/EcommerceSite.git"
   },
   "keywords": [],
   "author": "",
