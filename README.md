@@ -6,12 +6,9 @@ Full stack web application utilizing Express.js backend and SQL database.
 
 #### Issues
 
-- [x] [Users can create, read, update, and delete a profile](https://github.com/MBrassey/EcommerceSite/issues/1)
-- [x] [Add security and authentication](https://github.com/MBrassey/EcommerceSite/issues/2)
-- [x] [Create and manipulate posts](https://github.com/MBrassey/EcommerceSite/issues/3)
-- [x] [Enable users to vote on posts](https://github.com/MBrassey/EcommerceSite/issues/4)
-- [x] [Create and manipulate comments on post data](https://github.com/MBrassey/EcommerceSite/issues/5)
-- [x] [Generate Readme & Deploy Heroku](https://github.com/MBrassey/EcommerceSite/issues/6)
+- [x] [Initialize Application](https://github.com/MBrassey/EcommerceSite/issues/1)
+- [x] [Construct All Models & Routes](https://github.com/MBrassey/EcommerceSite/issues/2)
+- [x] [Deploy to Heroku & Generate Readme](https://github.com/MBrassey/EcommerceSite/issues/3)
 
 #### Requirements
 
@@ -41,19 +38,19 @@ Full stack web application utilizing Express.js backend and SQL database.
            -l          Show license info.
            -a          What is EcommerceSite?
 
-<h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://EcommerceSite-mbrassey.herokuapp.com/api/posts">webapplication</a></p></h6>
+<h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://EcommerceSite-mbrassey.herokuapp.com/api/categories">webapplication</a></p></h6>
 
 > Setup
-> [<img src="img/Preview.gif">](https://EcommerceSite-mbrassey.herokuapp.com/api/posts)
+> [<img src="img/Preview.gif">](https://EcommerceSite-mbrassey.herokuapp.com/api/categories)
 
-> User Routes
-> [<img src="img/Preview1.gif">](https://EcommerceSite-mbrassey.herokuapp.com/api/posts)
+> Product Routes
+> [<img src="img/Preview1.gif">](https://EcommerceSite-mbrassey.herokuapp.com/api/categories)
 
-> Post Routes
-> [<img src="img/Preview2.gif">](https://EcommerceSite-mbrassey.herokuapp.com/api/posts)
+> Category Routes
+> [<img src="img/Preview2.gif">](https://EcommerceSite-mbrassey.herokuapp.com/api/categories)
 
-> Comment Routes
-> [<img src="img/Preview3.gif">](https://EcommerceSite-mbrassey.herokuapp.com/api/posts)
+> Tag Routes
+> [<img src="img/Preview3.gif">](https://EcommerceSite-mbrassey.herokuapp.com/api/categories)
 
 #### Questions
 
