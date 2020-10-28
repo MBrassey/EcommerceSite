@@ -40,6 +40,9 @@ E-Commerce backend with Express.js and SQL database. Including robust REST API w
 
 <h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://EcommerceSite-mbrassey.herokuapp.com/api/categories">webapplication</a></p></h6>
 
+> Video Demonstration
+> [<img src="img/VideoPreview.png">](https://EcommerceSite-mbrassey.herokuapp.com/api/categories)
+
 > Setup
 > [<img src="img/Preview.gif">](https://EcommerceSite-mbrassey.herokuapp.com/api/categories)
 
