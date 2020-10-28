@@ -1,6 +1,6 @@
 ## EcommerceSite
 
-Full stack web application utilizing Express.js backend and SQL database.
+E-Commerce backend with Express.js and SQL database. Including robust REST API with multiple endpoints/routes. Routes include POST, PUT, GET & DELETE for Tags, Categories and Products. All routes are tesed in the demonstrations below.
 
 ![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)
 
@@ -12,7 +12,7 @@ Full stack web application utilizing Express.js backend and SQL database.
 
 #### Requirements
 
-    mysql
+    mysql or jawsdb
     node
     npm
 
