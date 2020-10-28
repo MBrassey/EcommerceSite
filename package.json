@@ -1,7 +1,7 @@
 {
   "name": "EcommerceSite",
   "version": "1.0.0",
-  "description": "",
+  "description": "Full stack web application utilizing Express.js backend and SQL database.",
   "main": "server.js",
   "scripts": {
     "test": "jest --verbose",
@@ -15,7 +15,7 @@
     "url": "git@github.com:MBrassey/EcommerceSite.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Matt Brassey",
   "license": "CC0-1.0",
   "devDependencies": {
     "jest": "^26.6.1",
