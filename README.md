@@ -1,6 +1,6 @@
 ## EcommerceSite
 
-E-Commerce backend with Express.js and SQL database. Including robust REST API with multiple endpoints/routes. Routes include POST, PUT, GET & DELETE for Tags, Categories and Products. All routes are tesed in the demonstrations below.
+E-Commerce backend with Express.js and SQL database. Including robust REST API with multiple endpoints/routes. Routes include POST, PUT, GET & DELETE for Tags, Categories and Products. All routes are tested in the demonstrations below.
 
 ![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)
 
